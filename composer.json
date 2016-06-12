@@ -1,0 +1,17 @@
+{
+    "name": "li-on/twitter",
+    "description": "Monitorowanie twittera - test dla WP",
+    "require": {
+        "j7mbo/twitter-api-php": "dev-master",
+	"adodb/adodb-php": "5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.4.*"
+    },
+    "authors": [
+        {
+            "name": "Rafal Voss",
+            "email": "li-on@wp.pl"
+        }
+    ]
+}
